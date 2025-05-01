@@ -4,7 +4,7 @@ This repository contains solutions to all CSCS (Competitive Programming) problem
 
 ## Contents
 
-- Well-structured solutions to CSCS problem sets
+- Well-structured solutions to CSCS problem sets.
 - Code written in a clean and understandable manner
 - Organized by problem category and difficulty (if applicable)
 
